@@ -204,43 +204,7 @@ Delivery  →  Docker · Nginx · PM2 · VPS · CI-ready deployments
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pateldhruv64&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pateldhruv64&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=24292F" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pateldhruv64&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=818CF8&icon_color=818CF8&text_color=C9D1D9" alt="Dhruv Patel's GitHub stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldhruv64&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldhruv64&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=24292F" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldhruv64&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9" alt="Most used languages" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pateldhruv64&hide_border=true&background=0D1117&stroke=30363D&ring=6366F1&fire=F59E0B&currStreakLabel=818CF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Pateldhruv64&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=4F46E5&fire=F59E0B&currStreakLabel=4F46E5&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" />
-  <img src="https://streak-stats.demolab.com?user=Pateldhruv64&hide_border=true&background=0D1117&stroke=30363D&ring=6366F1&fire=F59E0B&currStreakLabel=818CF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pateldhruv64&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&title_color=818CF8&line=6366F1&point=F59E0B" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pateldhruv64&hide_border=true&area=true&bg_color=FFFFFF&color=24292F&title_color=4F46E5&line=4F46E5&point=F59E0B" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pateldhruv64&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&title_color=818CF8&line=6366F1&point=F59E0B" alt="Contribution activity graph" />
-</picture>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pateldhruv64&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-</div>
 
 <!--
   SNAKE ANIMATION — pehle workflow chalao, tab ye uncomment karo.
