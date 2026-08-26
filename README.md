@@ -206,7 +206,7 @@ Delivery  →  Docker · Nginx · PM2 · VPS · CI-ready deployments
 
 
 
-<!--
+
   SNAKE ANIMATION — pehle workflow chalao, tab ye uncomment karo.
   Steps:
     1. `snake.yml` file ko `.github/workflows/snake.yml` pe commit karo
@@ -220,7 +220,7 @@ Delivery  →  Docker · Nginx · PM2 · VPS · CI-ready deployments
     <img src="https://raw.githubusercontent.com/Pateldhruv64/Pateldhruv64/output/github-snake.svg" alt="Contribution snake animation" />
   </picture>
 </div>
--->
+
 
 ---
 
