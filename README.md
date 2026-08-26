@@ -207,11 +207,7 @@ Delivery  →  Docker · Nginx · PM2 · VPS · CI-ready deployments
 
 
 
-  SNAKE ANIMATION — pehle workflow chalao, tab ye uncomment karo.
-  Steps:
-    1. `snake.yml` file ko `.github/workflows/snake.yml` pe commit karo
-    2. Actions tab → "Generate Snake Animation" → Run workflow (ek baar manually)
-    3. Jab `output` branch ban jaaye, tabhi neeche wala block uncomment karo
+ 
 
 <div align="center">
   <picture>
