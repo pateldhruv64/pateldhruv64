@@ -21,8 +21,7 @@ and AI systems with **LangChain, LangGraph & RAG**.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Pateldhruv64&style=flat-square&color=6366F1&label=Profile+views" alt="Profile views" />
-<a href="https://github.com/Pateldhruv64?tab=followers"><img src="https://img.shields.io/github/followers/Pateldhruv64?style=flat-square&color=6366F1&labelColor=0D1117&logo=github&logoColor=white&label=Followers" alt="GitHub followers" /></a>
+
 
 </div>
 
